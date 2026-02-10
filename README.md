@@ -6,6 +6,12 @@
 ## 🚀 Live Demo
 **[View Live Application](https://ai-assignment-reeti.onrender.com)**
 
+## Live Demo Video
+
+https://github.com/user-attachments/assets/13747254-1618-4053-bb57-70794c749c38
+
+
+
 ## 🌟 Expectations Met & Exceeded
 
 The challenge required a creative assistant that syncs with a calendar and provides meeting prep. This solution exceeds those requirements by offering a full **Omni-Channel experience**:
