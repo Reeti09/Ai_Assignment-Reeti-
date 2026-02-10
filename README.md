@@ -3,6 +3,8 @@
 **Salesforce Prep Buddy** is an intelligent meeting preparation engine designed for high-performance sales teams. It synchronizes with a user's Google Calendar to generate deep, strategic briefings for upcoming meetings, delivering them across multiple channels to ensure a representative is prepared anywhere, anytime.
 
 ---
+## 🚀 Live Demo
+**[View Live Application](https://ai-assignment-reeti.onrender.com)**
 
 ## 🌟 Expectations Met & Exceeded
 
